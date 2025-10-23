@@ -67,7 +67,7 @@ UWB 패킷의 SHR과 DP(데이터) 구간 길이는 전송 속도나 정보량�
 `Treply`가 계산된 `Treply_min` 이상일 때 거리 오차가 안정적으로 수렴함을 검증했습니다. (논문 그림 5 참고)
 
 > <div align="center">
->     <img src="/imgs/image-8.png" alt="SS-TWR Treply1 vs 거리 오차" style="width:70%; height:auto; display:block; margin: 0 auto;">
+>     <img src="/imgs/image-8.png" alt="SS-TWR Treply1 vs 거리 오차" style="width:40%; height:auto; display:block; margin: 0 auto;">
 > </div>
 >
 > * **X축**: `Treply1` (시간)

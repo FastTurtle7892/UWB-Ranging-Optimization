@@ -23,12 +23,12 @@ TWR(Two-Way Ranging)은 태그(Tag)와 앵커(Anchor) 간에 패킷을 교환하
 
 #### 2.1 SS-TWR (Single-Sided Two-Way Ranging)
 <div align="center">
-    <img src="/imgs/image-2.png" alt="SS-TWR 개념도" style="width:70%; height:auto; display:block; margin: 0 auto;">
+    <img src="/imgs/image-2.png" alt="SS-TWR 개념도" style="width:50%; height:auto; display:block; margin: 0 auto;">
 </div>
 
 #### 2.2 DS-TWR (Double-Sided Two-Way Ranging)
 <div align="center">
-    <img src="/imgs/image-3.png" alt="DS-TWR 개념도" style="width:70%; height:auto; display:block; margin: 0 auto;">
+    <img src="/imgs/image-3.png" alt="DS-TWR 개념도" style="width:50%; height:auto; display:block; margin: 0 auto;">
 </div>
 
 ---
@@ -38,7 +38,7 @@ TWR(Two-Way Ranging)은 태그(Tag)와 앵커(Anchor) 간에 패킷을 교환하
 UWB 패킷의 SHR과 DP(데이터) 구간 길이는 전송 속도나 정보량에 따라 가변적입니다. 따라서 총 패킷 시간은 Preamble 심볼 시간과 Data 심볼 시간을 각각 계산한 후, 다음 식을 통해 구할 수 있습니다.
 
 <div align="center">
-    <img src="/imgs/image-4.png" alt="UWB 패킷 시간 계산식" style="width:70%; height:auto; display:block; margin: 0 auto;">
+    <img src="/imgs/image-4.png" alt="UWB 패킷 시간 계산식" style="width:40%; height:auto; display:block; margin: 0 auto;">
 </div>
 
 ---
